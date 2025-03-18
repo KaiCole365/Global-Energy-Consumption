@@ -8,7 +8,6 @@ identify key factors influencing consumption, and provide insights relevant to s
 ## Data Sources
 
 *   **World Bank Data:** Provides comprehensive data on energy consumption, GDP, population, and other socioeconomic indicators.
-*   **Other Relevant Datasets:**  (Specify any other datasets you used, e.g., BP Statistical Review of World Energy)
 
 ## Technologies Used
 
