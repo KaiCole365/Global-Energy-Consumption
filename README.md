@@ -41,11 +41,7 @@ The notebook is structured as follows:
 4.  **Data Visualization:**
     *   Creating visualizations to communicate insights effectively (e.g., line plots, scatter plots, bar charts, heatmaps).
 
-5.  **Modeling:** (If applicable)
-    *   Building predictive models for energy consumption (e.g., using linear regression, time series models).
-    *   Evaluating model performance.
-
-6.  **Conclusions and Recommendations:**
+5.  **Conclusions and Recommendations:**
     *   Summarizing key findings.
     *   Providing recommendations for sustainable energy policy and resource management.
 
@@ -84,4 +80,4 @@ The notebook is structured as follows:
 
 ## Author
 
-*   Kai Cole
+### Kai Cole
